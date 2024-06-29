@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anmol\\source\\repos\\CQRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\services\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\services\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\services\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\services\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Migrations\\20240629112843_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CQRS\\Migrations\\20240629112843_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\data\\handlers\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\data\\handlers\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\data\\handlers\\deletetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\data\\handlers\\deletetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\data\\handlers\\updatetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\data\\handlers\\updatetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\data\\handlers\\gettaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\data\\handlers\\gettaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|c:\\users\\anmol\\source\\repos\\cqrs\\cqrs\\data\\handlers\\gettasklisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7109F-CB27-4A90-AEAD-A75DEA1EC2CA}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\data\\handlers\\gettasklisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240629112843_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Migrations\\20240629112843_Initial.cs",
+              "RelativeDocumentMoniker": "CQRS\\Migrations\\20240629112843_Initial.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Migrations\\20240629112843_Initial.cs",
+              "RelativeToolTip": "CQRS\\Migrations\\20240629112843_Initial.cs",
+              "ViewState": "AQIAABgAAAAAKjMzMzPjvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:28:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRS\\appsettings.json",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\appsettings.json",
+              "RelativeToolTip": "CQRS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T11:16:18.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "CQRS\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "CQRS\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAADYAAAAA/v////8VwDsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:55:08.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Program.cs",
+              "RelativeDocumentMoniker": "CQRS\\Program.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Program.cs",
+              "RelativeToolTip": "CQRS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:52:05.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteTaskHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\DeleteTaskHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Data\\Handlers\\DeleteTaskHandler.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\DeleteTaskHandler.cs",
+              "RelativeToolTip": "CQRS\\Data\\Handlers\\DeleteTaskHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:47:41.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Services\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "CQRS\\Services\\ITasksRepository.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Services\\ITasksRepository.cs",
+              "RelativeToolTip": "CQRS\\Services\\ITasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:15.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Services\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "CQRS\\Services\\TasksRepository.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Services\\TasksRepository.cs",
+              "RelativeToolTip": "CQRS\\Services\\TasksRepository.cs",
+              "ViewState": "AQIAAAcAAADAa2ZmZmYcwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:33:21.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateTaskHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\UpdateTaskHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Data\\Handlers\\UpdateTaskHandler.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\UpdateTaskHandler.cs",
+              "RelativeToolTip": "CQRS\\Data\\Handlers\\UpdateTaskHandler.cs",
+              "ViewState": "AQIAAAcAAAAA+v//////vxAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:27:51.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTaskHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\CreateTaskHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Data\\Handlers\\CreateTaskHandler.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\CreateTaskHandler.cs",
+              "RelativeToolTip": "CQRS\\Data\\Handlers\\CreateTaskHandler.cs",
+              "ViewState": "AQIAAAIAAAAAMzMzMzP7vwkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:20:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetTaskHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\GetTaskHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Data\\Handlers\\GetTaskHandler.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\GetTaskHandler.cs",
+              "RelativeToolTip": "CQRS\\Data\\Handlers\\GetTaskHandler.cs",
+              "ViewState": "AQIAAAUAAABgMjMzMzMLwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:10:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetTaskListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\GetTaskListHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Data\\Handlers\\GetTaskListHandler.cs",
+              "ToolTip": "C:\\Users\\anmol\\source\\repos\\CQRS\\CQRS\\Data\\Handlers\\GetTaskListHandler.cs",
+              "RelativeToolTip": "CQRS\\Data\\Handlers\\GetTaskListHandler.cs",
+              "ViewState": "AQIAAAAAAABQZmZmZmYUwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:04:40.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
